@@ -1,0 +1,30 @@
+{
+    "flowerlist":[
+{
+    "name":"Azalea",
+    "photo":"https://services.hanselandpetal.com/photos/california_snow.jpg",
+    "price":"15.99" ,
+    "productId":"1"
+},{
+    "name":"Tibouchina Semidecandra",
+    "photo":"https://www.suncrestnurseries.com/plantimages/medium/Tibouchina-urvilleana.jpg",
+    "price":"33.99" ,
+    "productId":"2"
+},{
+    "name":"Hibiscus",
+    "photo":"https://gardentherapy.ca/wp-content/uploads/2022/02/how-to-grow-hibiscus.jpg",
+    "price":"12.99" ,
+    "productId":"3"
+},{
+    "name":"Camellia Japonica",
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/0/03/Camellia_japonica_%27Pink_Perfection%27.jpg",
+    "price":"15.99" ,
+    "productId":"4"
+},{
+    "name":"Bougainvillea Spectabilis",
+    "photo":"https://thegreendetail.com/328-tm_thickbox_default/bougainvillea.jpg",
+    "price":"10.99" ,
+    "productId":"5"
+}
+]
+}
